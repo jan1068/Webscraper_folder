@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+env/
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Virtual environment and caches
+.pytest_cache/
+.mypy_cache/
+
+# Data and outputs (uncomment if you want to track these)
+#westfield_stores.xlsx
+#westfield_stores.json
+#westfield_stores_*.json
+
+# Secrets
+.env
+*.key
+*.pem
